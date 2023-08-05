@@ -18,12 +18,12 @@
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fbbdev&layout=compact&langs_count=8&card_width=320&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fbbdev&hide=meson%2Ccmake%2Cnsis%2Cmakefile%2Cpeg.js&layout=compact&langs_count=8&card_width=320&theme=dark"
     media="(prefers-color-scheme: dark)"
     height="200">
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fbbdev&layout=compact&langs_count=8&card_width=320"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fbbdev&hide=meson%2Ccmake%2Cnsis%2Cmakefile%2Cpeg.js&layout=compact&langs_count=8&card_width=320"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbbdev&layout=compact&langs_count=8&card_width=320" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbbdev&hide=meson%2Ccmake%2Cnsis%2Cmakefile%2Cpeg.js&layout=compact&langs_count=8&card_width=320" height="200">
 </picture>
