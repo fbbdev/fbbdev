@@ -1,7 +1,8 @@
 ### Hello! 👋
 
-- 🔍 I'm doing research at [SNS](https://www.sns.it/en/) on [the proof theory of classical logic](https://arxiv.org/abs/2307.16594)
-- 🔧 I'm working on the virtual classrooms at [uwMeeting](https://uwmeeting.com/?lng=en)
+- 🔍 I did a PhD at [SNS](https://www.sns.it/en/) on [the proof theory of classical logic](https://en.wikipedia.org/wiki/Proof_theory)
+- 🔧 Worked on the virtual classrooms at [uwMeeting](https://uwmeeting.com/?lng=en)
+- 📈 Now moving around your stocks at [Euronext Clearing](https://www.euronext.com/en/clearing)
 - ✨ I make nice software (see below)
 - 📫 Come visit me at [fbbdev.it](https://fbbdev.it)
 
