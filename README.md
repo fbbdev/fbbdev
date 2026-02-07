@@ -7,23 +7,23 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=fbbdev&show_icons=true&text_bold=false&rank_icon=percentile&include_all_commits=true&custom_title=@fbbdev%27s+github+stats&theme=dark"
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=fbbdev&show_icons=true&text_bold=false&rank_icon=percentile&include_all_commits=true&custom_title=@fbbdev%27s+github+stats&theme=dark"
     media="(prefers-color-scheme: dark)"
     height="200">
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=fbbdev&show_icons=true&text_bold=false&rank_icon=percentile&include_all_commits=true&custom_title=@fbbdev%27s+github+stats"
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=fbbdev&show_icons=true&text_bold=false&rank_icon=percentile&include_all_commits=true&custom_title=@fbbdev%27s+github+stats"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     height="200">
-  <img src="https://github-readme-stats.vercel.app/api?username=fbbdev&show_icons=true&text_bold=false&rank_icon=percentile&include_all_commits=true&custom_title=@fbbdev%27s+github+stats" height="200">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=fbbdev&show_icons=true&text_bold=false&rank_icon=percentile&include_all_commits=true&custom_title=@fbbdev%27s+github+stats" height="200">
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fbbdev&hide=meson%2Ccmake%2Cnsis%2Cmakefile%2Cpeg.js&layout=compact&langs_count=8&card_width=320&theme=dark"
+    srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fbbdev&hide=meson%2Ccmake%2Cnsis%2Cmakefile%2Cpeg.js&layout=compact&langs_count=8&card_width=320&theme=dark"
     media="(prefers-color-scheme: dark)"
     height="200">
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fbbdev&hide=meson%2Ccmake%2Cnsis%2Cmakefile%2Cpeg.js&layout=compact&langs_count=8&card_width=320"
+    srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fbbdev&hide=meson%2Ccmake%2Cnsis%2Cmakefile%2Cpeg.js&layout=compact&langs_count=8&card_width=320"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbbdev&hide=meson%2Ccmake%2Cnsis%2Cmakefile%2Cpeg.js&layout=compact&langs_count=8&card_width=320" height="200">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fbbdev&hide=meson%2Ccmake%2Cnsis%2Cmakefile%2Cpeg.js&layout=compact&langs_count=8&card_width=320" height="200">
 </picture>
